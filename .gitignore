@@ -1,0 +1,55 @@
+# ====================
+# Visual Studio / ASP.NET Core
+# ====================
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio cache
+.vs/
+
+## ASP.NET Publish folders
+publish/
+wwwroot/
+
+## Azure
+*.azure-pipelines.yml
+
+## Secrets
+secrets.json
+appsettings.Development.json
+appsettings.*.local.json
+
+## Others
+*.db
+*.log
+*.sqlite
+*.pfx
+*.key
+.env
+
+# npm / node
+node_modules/
+npm-debug.log
+
+# JetBrains Rider
+.idea/
+
+# Mac 系統垃圾
+.DS_Store
+
+# Resharper
+_ReSharper*/
